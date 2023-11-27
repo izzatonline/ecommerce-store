@@ -10,8 +10,8 @@ import "./globals.css";
 const font = Urbanist({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Thrieftied",
-  description: "Thrieftied - Your Haven for Budget Finds",
+  title: "Thriftied",
+  description: "Thriftied - Your Haven for Budget Finds",
 };
 
 export default function RootLayout({
